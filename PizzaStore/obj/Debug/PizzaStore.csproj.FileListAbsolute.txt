@@ -1,0 +1,15 @@
+E:\ASP Solutions\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe.config
+E:\ASP Solutions\PizzaStore\PizzaStore\bin\Debug\PizzaStore.exe
+E:\ASP Solutions\PizzaStore\PizzaStore\bin\Debug\PizzaStore.pdb
+E:\ASP Solutions\PizzaStore\PizzaStore\bin\Debug\Guna.UI.dll
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.AssemblyReference.cache
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.SuggestedBindingRedirects.cache
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.Billing.resources
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.Login.resources
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.Properties.Resources.resources
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.GenerateResource.cache
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CoreCompileInputs.cache
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.csproj.CopyComplete
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.exe
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.pdb
+E:\ASP Solutions\PizzaStore\PizzaStore\obj\Debug\PizzaStore.Settings.resources
